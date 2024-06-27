@@ -1,0 +1,25 @@
+img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    font-size: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
+p{
+    font-size: 25px;
+}
+video{
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 550px;
+}
+
